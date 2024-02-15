@@ -2,3 +2,5 @@
 *.mtl
 
 *.spp
+
+*.painter_lock
